@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="zywork-springboot:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/zywork_springboot_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="zywork-springboot" />
+          <element id="module-output" name="zywork-common" />
+          <element id="module-output" name="zywork-log4ja" />
+          <element id="module-output" name="zywork-spring" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.8" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.10" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.42" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.1" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="zywork-springboot/web/Web" />
+      <element id="javaee-facet-resources" facet="zywork-common/web/Web" />
+      <element id="javaee-facet-resources" facet="zywork-log4ja/web/Web" />
+      <element id="javaee-facet-resources" facet="zywork-spring/web/Web" />
+    </root>
+  </artifact>
+</component>

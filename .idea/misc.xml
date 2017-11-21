@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/zywork-activiti" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-auth" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-auth-shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-common" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-document" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-hibernate" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-hibernate-anno" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-log4ja" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-logback" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-message" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-parent" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-pay" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-redis" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-report" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-schedule" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-spring" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-springboot" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-ssh1" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-ssh2" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-struts" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-ui-bootstrap" />
+    <file type="web" url="file://$PROJECT_DIR$/zywork-websocket" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zywork-common/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-message/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-report/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-ssh1/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-ssh2/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-sb/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-activiti/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-schedule/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-document/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-struts/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-log/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-hibernate-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-log4j/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-auth-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/zywork-ui-bootstrap/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/zywork-schedule/src/main/webapp/index.jsp" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zywork-activiti/zywork-activiti.iml" filepath="$PROJECT_DIR$/zywork-activiti/zywork-activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-auth/zywork-auth.iml" filepath="$PROJECT_DIR$/zywork-auth/zywork-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-auth-shiro/zywork-auth-shiro.iml" filepath="$PROJECT_DIR$/zywork-auth-shiro/zywork-auth-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-common/zywork-common.iml" filepath="$PROJECT_DIR$/zywork-common/zywork-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-document/zywork-document.iml" filepath="$PROJECT_DIR$/zywork-document/zywork-document.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-hibernate/zywork-hibernate.iml" filepath="$PROJECT_DIR$/zywork-hibernate/zywork-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-hibernate-anno/zywork-hibernate-anno.iml" filepath="$PROJECT_DIR$/zywork-hibernate-anno/zywork-hibernate-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-log4j/zywork-log4j.iml" filepath="$PROJECT_DIR$/zywork-log4j/zywork-log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-logback/zywork-logback.iml" filepath="$PROJECT_DIR$/zywork-logback/zywork-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-message/zywork-message.iml" filepath="$PROJECT_DIR$/zywork-message/zywork-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-mybatis/zywork-mybatis.iml" filepath="$PROJECT_DIR$/zywork-mybatis/zywork-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-parent/zywork-parent.iml" filepath="$PROJECT_DIR$/zywork-parent/zywork-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-pay/zywork-pay.iml" filepath="$PROJECT_DIR$/zywork-pay/zywork-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-redis/zywork-redis.iml" filepath="$PROJECT_DIR$/zywork-redis/zywork-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-report/zywork-report.iml" filepath="$PROJECT_DIR$/zywork-report/zywork-report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-schedule/zywork-schedule.iml" filepath="$PROJECT_DIR$/zywork-schedule/zywork-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-spring/zywork-spring.iml" filepath="$PROJECT_DIR$/zywork-spring/zywork-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-springboot/zywork-springboot.iml" filepath="$PROJECT_DIR$/zywork-springboot/zywork-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-springmvc/zywork-springmvc.iml" filepath="$PROJECT_DIR$/zywork-springmvc/zywork-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-ssh1/zywork-ssh1.iml" filepath="$PROJECT_DIR$/zywork-ssh1/zywork-ssh1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-ssh2/zywork-ssh2.iml" filepath="$PROJECT_DIR$/zywork-ssh2/zywork-ssh2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-ssm/zywork-ssm.iml" filepath="$PROJECT_DIR$/zywork-ssm/zywork-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-struts/zywork-struts.iml" filepath="$PROJECT_DIR$/zywork-struts/zywork-struts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zywork-ui-bootstrap/zywork-ui-bootstrap.iml" filepath="$PROJECT_DIR$/zywork-ui-bootstrap/zywork-ui-bootstrap.iml" />
+    </modules>
+  </component>
+</project>

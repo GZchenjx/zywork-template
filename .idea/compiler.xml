@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zywork-activiti" />
+        <module name="zywork-auth" />
+        <module name="zywork-auth-shiro" />
+        <module name="zywork-cache" />
+        <module name="zywork-common" />
+        <module name="zywork-document" />
+        <module name="zywork-hibernate" />
+        <module name="zywork-hibernate-anno" />
+        <module name="zywork-log" />
+        <module name="zywork-log4j" />
+        <module name="zywork-logback" />
+        <module name="zywork-message" />
+        <module name="zywork-mybatis" />
+        <module name="zywork-pay" />
+        <module name="zywork-redis" />
+        <module name="zywork-report" />
+        <module name="zywork-sb" />
+        <module name="zywork-schedule" />
+        <module name="zywork-spring" />
+        <module name="zywork-springboot" />
+        <module name="zywork-springmvc" />
+        <module name="zywork-ssh1" />
+        <module name="zywork-ssh2" />
+        <module name="zywork-ssm" />
+        <module name="zywork-struts" />
+        <module name="zywork-ui-bootstrap" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zywork-activiti" target="1.8" />
+      <module name="zywork-auth" target="1.8" />
+      <module name="zywork-auth-shiro" target="1.8" />
+      <module name="zywork-cache" target="1.5" />
+      <module name="zywork-common" target="1.8" />
+      <module name="zywork-document" target="1.8" />
+      <module name="zywork-hibernate" target="1.8" />
+      <module name="zywork-hibernate-anno" target="1.8" />
+      <module name="zywork-log" target="1.8" />
+      <module name="zywork-log4j" target="1.8" />
+      <module name="zywork-logback" target="1.8" />
+      <module name="zywork-message" target="1.8" />
+      <module name="zywork-mybatis" target="1.8" />
+      <module name="zywork-parent" target="1.8" />
+      <module name="zywork-pay" target="1.8" />
+      <module name="zywork-redis" target="1.8" />
+      <module name="zywork-report" target="1.8" />
+      <module name="zywork-report (1)" target="1.8" />
+      <module name="zywork-sb" target="1.8" />
+      <module name="zywork-schedule" target="1.8" />
+      <module name="zywork-shiro" target="1.8" />
+      <module name="zywork-spring" target="1.8" />
+      <module name="zywork-springboot" target="1.8" />
+      <module name="zywork-springmvc" target="1.8" />
+      <module name="zywork-ssh1" target="1.8" />
+      <module name="zywork-ssh2" target="1.8" />
+      <module name="zywork-ssm" target="1.8" />
+      <module name="zywork-struts" target="1.8" />
+      <module name="zywork-ui-bootstrap" target="1.8" />
+      <module name="zywork-websocket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zywork-springboot:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/zywork_springboot_war</output-path>
+    <root id="archive" name="zywork-springboot_war.war">
+      <element id="artifact" artifact-name="zywork-springboot:war exploded" />
+    </root>
+  </artifact>
+</component>
