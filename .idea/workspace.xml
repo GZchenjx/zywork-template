@@ -7,620 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9d173d6-714e-443a-b5c3-fa95175ecb04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth-shiro/target/classes/top/zywork/security/shiro/AppShiroRealm.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dao/ModuleDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dao/PermissionDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dao/RoleDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dao/UserDAO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/ModuleDO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/PermissionDO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/RoleDO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/RolePermissionDO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/UserDO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/UserRoleDO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dto/ModuleDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dto/PermissionDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dto/RoleDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dto/UserDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/query/UserAccountPasswordQuery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/ModuleService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/PermissionService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/RoleService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/impl/ModuleServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/impl/PermissionServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/impl/RoleServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/impl/UserServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/开发规范/分层架构与DTO,VO,DO.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/开发规范/赣州之游信息技术有限公司Java项目开发规范.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/开发规范/赣州之游信息技术有限公司Java项目开发规范.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/开发规范/阿里巴巴Java开发手册v1.2.0-1.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/开发规范/阿里巴巴Java开发手册终极版v1.3.0.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/数据库设计.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/项目架构设计.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/项目架构设计.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/lib/jasperreports-fonts-6.4.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/main/resources/reports/report1.jasper" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/main/resources/reports/report1.jrprint" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/main/resources/reports/report1.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/resources/excel/excel_test.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/resources/excel/idea.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/resources/excel/test.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/resources/excel/test.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/resources/reports/report1.jasper" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/resources/reports/report1.jrprint" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/resources/reports/report1.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/target/test-classes/top/zywork/ApplicationTests.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/bpmn/leave_process.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/bpmn/leave_process.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/resources/bpmn/leave_process.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/resources/bpmn/leave_process.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/zywork_springboot_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/zywork_springboot_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/zywork_ssh1_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/zywork_ssh1_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/zywork_ssh2_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/zywork_ssh2_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/zywork_ssm_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/zywork_ssm_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bfbf095e-d939-4235-a6c7-459427f2bc1e.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_commons_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_tree_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_37.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_hazelcast_hazelcast_3_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_57_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lowagie_itext_2_1_7_js6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_java6_2_3_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_api_2_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_impl_2_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_spi_2_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_regexp_jakarta_regexp_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_dozer_dozer_5_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_dozer_dozer_spring_5_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_6_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jasperreports_jasperreports_6_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_converter_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_model_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_dmn_api_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_dmn_model_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_engine_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_form_api_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_form_model_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_image_generator_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_process_validation_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_spring_6_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_email_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_4_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_4_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_4_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_4_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_4_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_all_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_aspectj_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_guice_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_hazelcast_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_quartz_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_convention_plugin_2_3_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_json_plugin_2_3_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_spring_plugin_2_3_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_castor_castor_core_1_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_castor_castor_xml_1_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_core_compiler_ecj_4_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfree_jcommon_1_0_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfree_jfreechart_1_0_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_logback_extensions_logback_ext_spring_0_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_olap4j_olap4j_0_9_7_309_JS_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/dao/ProcessDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/dos/ProcessDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/dto/ProcessDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/query/ProcessDeployQuery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/service/ActivitiService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/service/ProcessService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/service/impl/ActivitiServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/service/impl/ProcessServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/vo/ProcessVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/src/main/resources/config/spring-activiti.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-activiti/zywork-activiti.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth-shiro/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth-shiro/src/main/java/top/zywork/security/shiro/AppShiroRealm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth-shiro/src/main/resources/config/ehcache-shiro.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth-shiro/src/main/resources/config/spring-shiro.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth-shiro/target/classes/config/ehcache-shiro.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth-shiro/target/classes/config/spring-shiro.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth-shiro/zywork-auth-shiro.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dao/ModuleDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dao/PermissionDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dao/RoleDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dao/UserDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dos/ModuleDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dos/PermissionDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dos/RoleDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dos/RolePermissionDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dos/UserDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dos/UserRoleDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dto/ModuleDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dto/PermissionDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dto/RoleDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dto/UserDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/query/UserAccountPasswordQuery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/service/ModuleService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/service/PermissionService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/service/RoleService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/service/impl/ModuleServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/service/impl/PermissionServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/service/impl/RoleServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-auth/zywork-auth.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/ConfigUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/DateFormatUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/DateParseUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/DatePassUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/DateUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/DozerMapperUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/EncryptUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/ExceptionUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/HttpUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/IOUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/ImageUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/PageQueryUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/RandomUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/SingletonConfigUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/StringAsciiUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/UUIDUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/ValidateUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/WebUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/constant/AppLoadConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/constant/BPMNConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/constant/FileConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/constant/MailConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/dao/BaseDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/dos/BaseDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/dto/BaseDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/dto/PagerDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/ActiveStatusEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/AlgorithmEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/CharsetEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/CheckStatusEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/CommonControllerStatusEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/CommonExceptionEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/ContentTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/ControllerStatusEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/DatePassEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/DatePatternEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/DeleteStatusEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/MIMETypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/RadixEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/RandomCodeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/YesNoEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/exception/AppException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/exception/DAOException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/exception/ServiceException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/listener/AppLoadListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/query/PageQuery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/query/StatusQuery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/service/AbstractBaseService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/service/BaseService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/vo/BaseVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/vo/ControllerStatusVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/vo/PagerVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/main/resources/config/appload.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/test/java/top/zywork/common/DateUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/test/java/top/zywork/common/EncryptUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/test/java/top/zywork/common/HttpUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/test/java/top/zywork/common/RandomUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/test/java/top/zywork/common/StringAsciiUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/src/test/java/top/zywork/common/UUIDUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-common/zywork-common.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/jasperreports-readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/documents/template.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-document/zywork-document.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-hibernate-anno/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-hibernate-anno/src/main/java/top/zywork/dao/AppDaoSupport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-hibernate-anno/src/main/resources/config/spring-hibernate-anno.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-hibernate-anno/zywork-hibernate-anno.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-hibernate/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-hibernate/src/main/java/top/zywork/dao/AppDaoSupport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-hibernate/src/main/resources/config/spring-hibernate.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-hibernate/zywork-hibernate.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-log4j/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-log4j/src/main/resources/config/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-log4j/target/classes/config/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-log4j/zywork-log4j.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-logback/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-logback/src/main/resources/config/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-logback/target/classes/config/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-logback/zywork-logback.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/Mail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/MailAccount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/MailAddressUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/MailAuthenticator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/MailUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/src/main/resources/config/mail.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/src/test/java/top/zywork/common/mail/MailUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/src/test/resources/config/mail.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-message/zywork-message.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-mybatis/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-mybatis/src/main/resources/config/mybatis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-mybatis/src/main/resources/config/spring-mybatis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-mybatis/zywork-mybatis.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-parent/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-parent/zywork-parent.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-pay/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-pay/zywork-pay.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-redis/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-redis/src/main/resources/config/redis.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-redis/src/main/resources/config/spring-redis-single.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-redis/zywork-redis.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/main/java/top/zywork/common/ExcelUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/main/java/top/zywork/common/ExportUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/main/resources/reports/report1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/main/resources/reports/report1.jrxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/java/top/zywork/common/ExcelUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/java/top/zywork/common/ExportUtilsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/java/top/zywork/vo/SaleVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/resources/reports/report1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/src/test/resources/reports/report1.jrxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-report/zywork-report.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-schedule/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-schedule/src/main/java/top/zywork/job/HelloJob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-schedule/src/main/java/top/zywork/job/SurpriseJob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-schedule/src/main/resources/config/spring-quartz.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-schedule/zywork-schedule.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-spring/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-spring/src/main/resources/config/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-spring/src/main/resources/config/spring-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-spring/src/main/resources/config/spring-datasource.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-spring/zywork-spring.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/configuration/ApplicationBeanConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/configuration/DataSourceBeanConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/configuration/DozerMapperBeanConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/controller/IndexController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/controller/TemplateController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/dao/TemplateDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/dos/TemplateDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/dto/TemplateDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/service/TemplateService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/java/top/zywork/service/impl/TemplateServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/resources/banner.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/resources/config/appload.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/main/resources/config/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/src/test/java/top/zywork/ApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/target/classes/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/target/classes/banner.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/target/classes/config/appload.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/target/classes/config/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springboot/zywork-springboot.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springmvc/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springmvc/src/main/java/top/zywork/controller/BaseController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springmvc/src/main/resources/config/springmvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-springmvc/zywork-springmvc.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/controller/AdminController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/controller/IndexController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/controller/LeaveProcessController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/controller/ProcessController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/controller/TemplateController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/controller/WebSocketController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/dao/TemplateDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/dao/impl/ModuleDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/dao/impl/PermissionDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/dao/impl/ProcessDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/dao/impl/RoleDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/dao/impl/TemplateDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/dao/impl/UserDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/dos/TemplateDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/dto/TemplateDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/service/TemplateService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/service/UserRedisService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/service/impl/TemplateServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/service/impl/UserRedisServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/vo/AdminLoginVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/vo/LeaveApplyVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/vo/UserVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/java/top/zywork/websocket/WebServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/bpmn/leave_process.bpmn20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/i18n/messages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/i18n/messages_en_US.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/i18n/messages_zh_CN.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/mapping/ModuleDO.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/mapping/PermissionDO.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/mapping/ProcessDO.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/mapping/RoleDO.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/mapping/RolePermissionDO.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/mapping/TemplateDO.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/mapping/UserDO.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/resources/mapping/UserRoleDO.hbm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/test/java/top/zywork/service/PermissionServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/test/java/top/zywork/service/RoleServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/test/java/top/zywork/service/TemplateServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/test/java/top/zywork/service/UserRedisServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/src/test/java/top/zywork/service/UserServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh1/zywork-ssh1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/controller/AdminController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/controller/IndexController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/controller/LeaveProcessController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/controller/ProcessController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/controller/TemplateController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/controller/WebSocketController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dao/TemplateDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dao/impl/ModuleDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dao/impl/PermissionDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dao/impl/ProcessDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dao/impl/RoleDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dao/impl/TemplateDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dao/impl/UserDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dos/ModuleDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dos/PermissionDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dos/ProcessDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dos/RoleDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dos/RolePermissionDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dos/TemplateDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dos/UserDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dos/UserRoleDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dto/TemplateDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/service/TemplateService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/service/UserRedisService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/service/impl/TemplateServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/service/impl/UserRedisServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/vo/AdminLoginVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/vo/LeaveApplyVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/vo/UserVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/websocket/WebServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/resources/bpmn/leave_process.bpmn20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/resources/i18n/messages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/resources/i18n/messages_en_US.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/resources/i18n/messages_zh_CN.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/test/java/top/zywork/service/ModuleServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/test/java/top/zywork/service/PermissionServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/test/java/top/zywork/service/RoleServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/test/java/top/zywork/service/UserRedisServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/src/test/java/top/zywork/service/UserServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssh2/zywork-ssh2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/controller/AdminController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/controller/IndexController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/controller/LeaveProcessController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/controller/ProcessController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/controller/TemplateController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/controller/WebSocketController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/dao/TemplateDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/dos/TemplateDO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/dto/TemplateDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/service/TemplateService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/service/UserRedisService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/service/impl/TemplateServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/service/impl/UserRedisServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/vo/AdminLoginVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/vo/LeaveApplyVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/vo/UserVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/websocket/AppHandshakeInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/websocket/AppWebSocketHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/config/spring-websocket.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/i18n/messages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/i18n/messages_en_US.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/i18n/messages_zh_CN.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/mapper/ModuleDAOMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/mapper/PermissionDAOMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/mapper/ProcessDAOMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/mapper/RoleDAOMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/mapper/TemplateDAOMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/resources/mapper/UserDAOMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/test/java/top/zywork/service/ModuleServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/test/java/top/zywork/service/PermissionServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/test/java/top/zywork/service/RoleServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/test/java/top/zywork/service/UserRedisServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/src/test/java/top/zywork/service/UserServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ssm/zywork-ssm.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-struts/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-struts/src/main/java/top/zywork/controller/BaseController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-struts/src/main/resources/config/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-struts/zywork-struts.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/WEB-INF/views/admin/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/WEB-INF/views/common/404.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/WEB-INF/views/common/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/WEB-INF/views/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/WEB-INF/views/websocket/socket.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/index" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/js/admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/jquery1.x/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/static/plugins/jquery3.x/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zywork-ui-bootstrap/zywork-ui-bootstrap.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dao/ModuleDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dao/PermissionDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dao/RoleDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dao/UserDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/ModuleDO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/PermissionDO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/RoleDO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/RolePermissionDO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/UserDO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dos/UserRoleDO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dto/ModuleDTO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dto/PermissionDTO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dto/RoleDTO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/dto/UserDTO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/query/UserAccountPasswordQuery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/ModuleService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/PermissionService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/RoleService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/impl/ModuleServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/impl/PermissionServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/impl/RoleServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zywork-auth/target/classes/top/zywork/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/zywork-common/target/" />
     <ignored path="$PROJECT_DIR$/zywork-message/target/" />
@@ -761,9 +172,9 @@
         <option value="$MAVEN_REPOSITORY$/ognl/ognl/3.0.21/ognl-3.0.21.jar!/ognl/OgnlRuntime.class" />
         <option value="$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/WEB-INF/views/admin/login.jsp" />
         <option value="$PROJECT_DIR$/zywork-auth-shiro/src/main/resources/config/spring-shiro.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/zywork-log4j/pom.xml" />
         <option value="$PROJECT_DIR$/zywork-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -840,26 +251,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-activiti" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-activiti" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-activiti" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="zywork-auth" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -875,377 +274,32 @@
             </path>
             <path>
               <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-auth-shiro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-auth-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-auth-shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="zywork-auth" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-common" type="462c0819:PsiDirectoryNode" />
+              <item name="zywork-auth" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zywork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-document" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-document" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-document" type="462c0819:PsiDirectoryNode" />
+              <item name="zywork-auth" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-hibernate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-hibernate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-hibernate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-hibernate-anno" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-hibernate-anno" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-hibernate-anno" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-log4j" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-log4j" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-log4j" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-logback" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-logback" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-logback" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-message" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-message" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-message" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-pay" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-pay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-pay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-schedule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-schedule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-schedule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-schedule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-schedule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-springboot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-springmvc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-ssh1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-ssh1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-ssh1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-ssh2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-struts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-struts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-struts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zywork-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zywork-ui-bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zywork" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -1258,7 +312,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22304833" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zywork-template" />
     <property name="add_unversioned_files" value="true" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -1641,7 +695,9 @@
       <workItem from="1511161568907" duration="4862000" />
       <workItem from="1511166495749" duration="4042000" />
       <workItem from="1511171243765" duration="6726000" />
-      <workItem from="1511249505770" duration="1687000" />
+      <workItem from="1511249505770" duration="2490000" />
+      <workItem from="1511332639183" duration="2884000" />
+      <workItem from="1511341443077" duration="96000" />
     </task>
     <servers />
   </component>
@@ -1678,7 +734,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82146000" />
+    <option name="totallyTimeSpent" value="85929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
@@ -1695,16 +751,15 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.496112" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82426125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82426125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27125505" sideWeight="0.49455675" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28016195" sideWeight="0.49455675" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1715,6 +770,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1749,197 +805,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zywork-struts/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssm/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="89" column="37" lean-forward="false" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssh2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="91" column="21" lean-forward="false" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssh1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="89" column="37" lean-forward="false" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/WEB-INF/views/common/404.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssh2/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="128" column="17" lean-forward="true" selection-start-line="125" selection-start-column="4" selection-end-line="128" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ognl/ognl/3.0.21/ognl-3.0.21.jar!/ognl/OgnlRuntime.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4331">
-          <caret line="825" column="0" lean-forward="false" selection-start-line="825" selection-start-column="0" selection-end-line="825" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/controller/AdminController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/vo/AdminLoginVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/controller/AdminController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-auth-shiro/src/main/java/top/zywork/security/shiro/AppShiroRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="44" column="69" lean-forward="false" selection-start-line="44" selection-start-column="69" selection-end-line="44" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/service/impl/PermissionServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="53" column="72" lean-forward="false" selection-start-line="53" selection-start-column="72" selection-end-line="53" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dao/impl/PermissionDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="67" column="57" lean-forward="true" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-auth-shiro/src/main/resources/config/spring-shiro.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ui-bootstrap/src/main/webapp/WEB-INF/views/admin/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssm/src/main/resources/config/spring-websocket.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssm/src/main/java/top/zywork/controller/WebSocketController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dao/impl/ModuleDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dos/RolePermissionDO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dos/UserRoleDO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-auth/src/main/java/top/zywork/dos/UserDO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/dao/ProcessDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/dos/ProcessDO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-ssh2/src/main/java/top/zywork/dos/ProcessDO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zywork-activiti/src/main/java/top/zywork/service/ActivitiService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1958,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-71">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1966,7 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1974,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1982,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1990,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1998,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="60" column="13" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2006,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2014,15 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-message/src/main/resources/config/mail.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2030,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2038,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-149">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2046,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2054,7 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2062,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2070,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-408">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2078,31 +921,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-struts/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-parent/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-struts/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/zywork-parent/src/main/webapp/WEB-INF/web.xml" />
     <entry file="file://$PROJECT_DIR$/zywork-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2110,7 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2126,14 +952,196 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zywork-pay/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/zywork-pay/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/CommonExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/ContentTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/YesNoEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/RandomCodeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/RadixEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/MIMETypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/DeleteStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/ActiveStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/AlgorithmEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/CharsetEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/CheckStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/enums/CommonControllerStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-ssm/src/main/resources/config/spring-websocket.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-logback/src/main/resources/config/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/RandomUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/ValidateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/common/DateFormatUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-common/src/main/java/top/zywork/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-394">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-ssm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="87" column="27" lean-forward="true" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/MailAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/MailAddressUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/MailAuthenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-message/src/main/java/top/zywork/common/mail/MailUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zywork-message/src/main/resources/config/mail.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding />
         </state>
       </provider>
